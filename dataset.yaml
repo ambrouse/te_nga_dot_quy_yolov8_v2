@@ -1,0 +1,4 @@
+train: C:\Users\LymI\Desktop\yolo_colab_lstm_du_doan_te_nga\data_decode
+val: C:\Users\LymI\Desktop\yolo_colab_lstm_du_doan_te_nga\data_decode
+nc: 2  
+names: ["bình thường", "té ngã"] 
