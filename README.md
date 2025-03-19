@@ -42,4 +42,16 @@
 - [Báo cáo chi tiết dự án](report/Đồ%20án%20nhóm.doc)
 - [Báo cáo tóm tắt dự án](report/Tóm%20Tắt.docx)
 
+## Kết quả dự án
+<img src="./result/results.png" alt="!!err image loading." width="700"/>
+
+## Phân bố nhãn
+<img src="./result/labels.jpg" alt="!!err image loading." width="300"/>
+
+## Một vài dự đoán
+<img src="./result/val_batch2_pred.jpg" alt="!!err image loading." width="300"/>
+
+
+
+
 
