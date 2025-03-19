@@ -39,7 +39,7 @@
 <img src="./result/labels.jpg" alt="!!err image loading." width="300"/>
 
 ## Một vài dự đoán
-<img src="./result/val_batch2_pred.jpg" alt="!!err image loading." width="300"/>
+<img src="./result/val_batch2_pred.jpg" alt="!!err image loading." width="700"/>
 
 ## Video demo cho dự án (phần cá nhân)
 [![Watch video](https://img.youtube.com/vi/xeT9JaDhNn4/0.jpg)](https://www.youtube.com/watch?v=xeT9JaDhNn4)
