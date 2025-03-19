@@ -32,7 +32,7 @@
 - Google colab (trainning).
 - IDE: vscode(tạo data, gán nhãn, xử lý ảnh, test mô hình).
 
-## Video Demo cho dự án (phần cá nhân)
+## Video demo cho dự án (phần cá nhân)
 [![Watch video](https://img.youtube.com/vi/xeT9JaDhNn4/0.jpg)](https://www.youtube.com/watch?v=xeT9JaDhNn4)
 
 ## Link data và data decode
