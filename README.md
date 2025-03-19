@@ -32,16 +32,6 @@
 - Google colab (trainning).
 - IDE: vscode(tạo data, gán nhãn, xử lý ảnh, test mô hình).
 
-## Video demo cho dự án (phần cá nhân)
-[![Watch video](https://img.youtube.com/vi/xeT9JaDhNn4/0.jpg)](https://www.youtube.com/watch?v=xeT9JaDhNn4)
-
-## Link data và data decode
-- https://drive.google.com/drive/folders/1jd0SGW6q2xcHMWIHh08sZ8Z4GedEmsar?usp=sharing
-
-## Tài liệu
-- [Báo cáo chi tiết dự án](report/Đồ%20án%20nhóm.doc)
-- [Báo cáo tóm tắt dự án](report/Tóm%20Tắt.docx)
-
 ## Kết quả dự án
 <img src="./result/results.png" alt="!!err image loading." width="700"/>
 
@@ -50,6 +40,16 @@
 
 ## Một vài dự đoán
 <img src="./result/val_batch2_pred.jpg" alt="!!err image loading." width="300"/>
+
+## Video demo cho dự án (phần cá nhân)
+[![Watch video](https://img.youtube.com/vi/xeT9JaDhNn4/0.jpg)](https://www.youtube.com/watch?v=xeT9JaDhNn4)
+
+## Tài liệu
+- [Báo cáo chi tiết dự án](report/Đồ%20án%20nhóm.doc)
+- [Báo cáo tóm tắt dự án](report/Tóm%20Tắt.docx)
+
+## Link data và data decode
+- https://drive.google.com/drive/folders/1jd0SGW6q2xcHMWIHh08sZ8Z4GedEmsar?usp=sharing
 
 
 
