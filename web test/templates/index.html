@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload và Hiển Thị Ảnh</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='assest/icons8-learning-64.png') }}" type="image/x-icon">
+    <script src=" {{ url_for('static', filename='js/script.js') }} "></script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="fade-in">Dự đoán ảnh với AI</h1>
+
+        <form action="/" method="post" enctype="multipart/form-data" class="fade-in">
+            <label class="upload-box">
+                Chọn ảnh:
+                <input type="file" name="file" accept="image/*" required>
+            </label>
+            <button type="submit" class="fade-in">Tải lên</button>
+        </form>
+
+        <div class="image-container fade-in">
+            <div class="image-box">
+                <h2>Ảnh gốc</h2>
+                <img src="{{ original_image }}" alt="Original Image">
+            </div>
+
+            <div class="image-box">
+                <h2>Ảnh đã dự đoán</h2>
+                <img src="{{ predicted_image }}" alt="Predicted Image">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

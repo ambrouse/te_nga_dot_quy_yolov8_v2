@@ -1,0 +1,101 @@
+/* Toàn bộ background */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: url('/public/assest/titlewebp.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+/* Container chính */
+.container {
+    text-align: center;
+    padding-top: 40px;
+}
+
+/* Tiêu đề fade-in */
+h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+/* Box upload */
+.upload-box {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.8); /* transparent */
+    padding: 15px 25px;
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.upload-box input {
+    display: block;
+    margin-top: 10px;
+    color: #fff;
+}
+
+/* Nút gửi */
+button {
+    padding: 10px 20px;
+    background-color: #00bcd4;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #0097a7;
+}
+
+/* Vùng hiển thị ảnh */
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.image-box {
+    background: rgba(255, 255, 255, 0.8); /* transparent background */
+    padding: 20px;
+    border-radius: 15px;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    max-width: 700px;
+    width: 40%;
+}
+
+.image-box h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.image-box img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Animation */
+.fade-in {
+    opacity: 0;
+    transform: translateY(-20px);
+    animation: fadeSlideIn 1.2s ease forwards;
+}
+
+    @keyframes fadeSlideIn {
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
