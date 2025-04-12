@@ -44,8 +44,11 @@
 ## Ma trận dự đoán 
 <img src="./result/confusion_matrix_normalized.png" alt="!!err image loading." width="400"/>
 
-## Video demo cho dự án (phần cá nhân)
+## Video demo cho dự án
 [![Watch video](https://img.youtube.com/vi/xeT9JaDhNn4/0.jpg)](https://www.youtube.com/watch?v=xeT9JaDhNn4)
+
+## Video demo cho dự án bản đã dựng thành web
+[![Watch video](https://img.youtube.com/vi/RPcX9V68z9U/0.jpg)](https://www.youtube.com/watch?v=xeT9JaDhNn4)
 
 ## Tài liệu
 - [Báo cáo chi tiết dự án](report/Đồ%20án%20nhóm.doc)
