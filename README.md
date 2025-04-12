@@ -48,7 +48,7 @@
 [![Watch video](https://img.youtube.com/vi/xeT9JaDhNn4/0.jpg)](https://www.youtube.com/watch?v=xeT9JaDhNn4)
 
 ## Video demo cho dự án bản đã dựng thành web
-[![Watch video](https://img.youtube.com/vi/RPcX9V68z9U/0.jpg)](https://www.youtube.com/watch?v=xeT9JaDhNn4)
+[![Watch video](https://img.youtube.com/vi/RPcX9V68z9U/0.jpg)](https://www.youtube.com/watch?v=RPcX9V68z9U)
 
 ## Tài liệu
 - [Báo cáo chi tiết dự án](report/Đồ%20án%20nhóm.doc)
