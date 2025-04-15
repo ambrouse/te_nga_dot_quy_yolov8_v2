@@ -53,6 +53,7 @@
 ## Tài liệu
 - [Báo cáo chi tiết dự án](report/Đồ%20án%20nhóm.doc)
 - [Báo cáo tóm tắt dự án](report/Tóm%20Tắt.docx)
+- [Báo cáo dự án bản pp](report/Sử%20dụng%20deeplearning%20để%20nhận%20diện%20hành%20vi.pptx)
 
 ## Link data và data decode
 - https://drive.google.com/drive/folders/1jd0SGW6q2xcHMWIHh08sZ8Z4GedEmsar?usp=sharing
